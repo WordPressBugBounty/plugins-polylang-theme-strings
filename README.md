@@ -1,0 +1,1 @@
+# plugins-polylang-theme-strings
